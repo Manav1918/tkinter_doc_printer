@@ -4,3 +4,7 @@ There are five files for five methods of doing the same.
 method1.py ------ method5.py
 
 Watch full description and use of code from here.:
+
+
+method3 example screenshot:
+![image](https://user-images.githubusercontent.com/41276382/148669218-bc5cf081-c15c-4c09-becf-dfa65b673249.png)
