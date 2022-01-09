@@ -8,3 +8,7 @@ https://youtu.be/TGbw2jtdHVU
 
 method3 example screenshot:
 ![image](https://user-images.githubusercontent.com/41276382/148669218-bc5cf081-c15c-4c09-becf-dfa65b673249.png)
+
+printed in hard copy:
+![image](https://user-images.githubusercontent.com/41276382/148669619-b547e473-fa0b-4d98-bd3c-3ff1631289c8.png)
+
